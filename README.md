@@ -1,8 +1,9 @@
 # Hi! I'm Tulio Gomides ![](https://www.imagensanimadas.com/data/media/81/mao-imagem-animada-0030.gif)
 I am currently studying front-end development with React, and back-end development with node js.
 ## About me:
+I study computer engineering at the Federal University of Ouro Preto and an expert in web development.
 
-
+## My experience on github
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GomidesTs&show_icons=true&theme=radical)
 
 ## My Skills
@@ -10,7 +11,7 @@ I am currently studying front-end development with React, and back-end developme
 
 
 
-## connect with me:
+## Connect with me:
 <a href="https://www.linkedin.com/in/tulio-gomides-3b21b7171/">
 <img align="center" alt="Tulio Gomides-linkedin" height="40" width="40" src="https://i.dlpng.com/static/png/369188_preview.png">
 </a>
