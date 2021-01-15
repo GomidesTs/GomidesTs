@@ -1,5 +1,5 @@
 # Hi! I'm Tulio Gomides ![](https://www.imagensanimadas.com/data/media/81/mao-imagem-animada-0030.gif)
-I am currently studying front-end development with React, and back-end development with node js e Python.
+I am currently studying front-end development with React, and back-end development with node js.
 ## About me:
 
 
