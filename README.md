@@ -2,6 +2,7 @@
 
 ## About me:
 I study computer engineering at the Federal University of Ouro Preto and an expert in web development.
+
 I am currently studying front-end development with React, and back-end development with node js.
 
 ## My experience on github
