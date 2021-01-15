@@ -5,9 +5,13 @@ I am currently studying front-end development with React, and back-end developme
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GomidesTs&show_icons=true&theme=radical)
 
+## My Skills
+<img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+
+<img align="center" alt="nodjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+
 
 ## connect with me:
-
 <a href="https://www.linkedin.com/in/tulio-gomides-3b21b7171/">
 <img align="center" alt="Tulio Gomides-linkedin" height="40" width="40" src="https://i.dlpng.com/static/png/369188_preview.png">
 </a>
