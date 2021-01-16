@@ -1,4 +1,4 @@
-# Hi! I'm Tulio Gomides <img align="center" alt="programmer" height="40" width="40" src="https://o.remove.bg/downloads/c86a85e9-5bf6-4bcf-8c0a-9dfb24b73d2b/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb1cbc180.1447455115242316018346-removebg-preview.png">
+# Hi! I'm Tulio Gomides  :computer:
 
 ## About me:
 I study computer engineering at the Federal University of Ouro Preto and an expert in web development.
