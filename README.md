@@ -14,7 +14,7 @@ I am currently studying front-end development with React, and back-end developme
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/tulio-gomides-3b21b7171/">
+<a href="https://www.linkedin.com/in/gomidests-full-stack-developer/">
 <img align="center" alt="Tulio Gomides-linkedin" height="40" width="40" src="https://i.dlpng.com/static/png/369188_preview.png">
 </a>
 &nbsp;
@@ -22,7 +22,7 @@ I am currently studying front-end development with React, and back-end developme
 <img align="center" alt="Gomides.Ts-Instagram" height="30" width="30" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
 </a>
 &nbsp;
-<a href="mailto:gomidestulio5@gmail.com">
+<a href="mailto:gomidesprogrammer@gmail.com">
 <img align="center" alt="Gomides.Ts-Gmail" height="30" width="30" src="https://i.pinimg.com/originals/3c/66/f8/3c66f8917c99c4cbb2b1eb7d6ef542c4.png">
 </a>
 &nbsp;
