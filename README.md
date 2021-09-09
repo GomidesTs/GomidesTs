@@ -6,11 +6,13 @@ I study computer engineering at the Federal University of Ouro Preto and an expe
 I am currently studying front-end development with React, and back-end development with node js.
 
 ## My experience on github
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GomidesTs&show_icons=true&theme=radical)
+<a href="https://github.com/GomidesTs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomidests&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomidests&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## My Skills
 <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">     <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     <img align="center" alt="nodjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">     <img align="center" alt="nodjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">      <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">      <img align="center" alt="django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">      <img align="center" alt="flask" height="40" width="40" src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png">      <img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">     <img align="center" alt="mongo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">      <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">     <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
 
 
 ## Connect with me:
