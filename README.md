@@ -30,5 +30,5 @@ I am currently studying front-end development with React, and back-end developme
 <img align="center" alt="Gomides.Ts-WhatsApp" height="30" width="30" src="https://cdn.pixabay.com/photo/2015/08/03/13/58/soon-873316_960_720.png">
 </a>
 <a href="https://gomidests.github.io/I-m/">
-<img align="center" alt="Gomides.Ts-Site" height="40" width="40" src="https://raw.githubusercontent.com/GomidesTs/I-m/main/assets/img/icons/iconPc.png">
+<img align="center" alt="Gomides.Ts-Site" height="40" width="40" src="https://github.com/GomidesTs/TulioGomides/blob/main/assets/img/icons/iconPc.png">
 </a>
