@@ -47,7 +47,7 @@ I am currently studying front-end development with React, and back-end developme
   <a href="https://api.whatsapp.com/send?phone=5531997390128&text=Ola%20Tulio%20Gomides%2C%20entro%20em%20contato%20para%20oferecer%20uma%20proposta">
     <img align="center" alt="Gomides.Ts-WhatsApp" height="30" width="30" src="https://cdn.pixabay.com/photo/2015/08/03/13/58/soon-873316_960_720.png">
   </a>
-  <a href="https://gomidests.github.io/I-m/">
+  <a href="https://tuliogomides.com.br">
     <img align="center" alt="Gomides.Ts-Site" height="40" width="40" src="https://github.com/GomidesTs/TulioGomides/blob/main/assets/img/icons/iconPc.png">
   </a>
 </div>
