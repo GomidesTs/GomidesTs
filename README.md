@@ -1,4 +1,4 @@
-# Hey! I'm Túlio Gomides :computer:
+# Hey! I'm Túlio Gomides :computer: <p align="left"> <img src="https://komarev.com/ghpvc/?username=GomidesTs&color=ff69b4" alt="Profile views" width="100px" /> </p>
 
 ## About me:
 I am a student of information systems at the Federal University of Ouro Preto.
