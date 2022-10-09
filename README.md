@@ -18,42 +18,42 @@ seeking to become a standout.
 
 ## My Skills
 <div>
-<img align="center" alt="HTML5" height="80" width="80" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/html.svg">     
+<img align="center" alt="HTML5" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/html.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="CSS" height="80" width="80" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/css.svg">     
+<img align="center" alt="CSS" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/css.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="JAVASCRIPT" height="80" width="80" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/js.svg">     
+<img align="center" alt="JAVASCRIPT" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/js.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="SCSS" height="80" width="80" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/Vector.svg">     
+<img align="center" alt="SCSS" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/Vector.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="NODE" height="80" width="80" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/node.svg">     
+<img align="center" alt="NODE" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/node.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="REACT" height="80" width="80" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/react.svg">     
+<img align="center" alt="REACT" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/react.svg">     
 &nbsp;&nbsp;
-<img align="center" alt="GIT" height="80" width="80" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/git.svg">     
+<img align="center" alt="GIT" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/git.svg">     
 &nbsp;&nbsp; 
 </div>
 
 ## Connect with me:
 <div>
   <a href="https://www.tuliogomides.com.br/" target="_blank">
-    <img align="center" alt="Tulio Gomides-site" height="50" width="50" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/site.svg">
+    <img align="center" alt="Tulio Gomides-site" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/site.svg">
   </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gomidests/" target="_blank">
-    <img align="center" alt="Tulio Gomides-linkedin" height="50" width="50" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/linkedin.svg">
+    <img align="center" alt="Tulio Gomides-linkedin" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/linkedin.svg">
   </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/gomides.ts/" target="_blank">
-    <img align="center" alt="Tulio Gomides-instagram" height="50" width="50" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/instagran.svg">
+    <img align="center" alt="Tulio Gomides-instagram" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/instagran.svg">
   </a>
 &nbsp;&nbsp;
 <a href="mailto:gomidesprogrammer@gmail.com" target="_blank">
-    <img align="center" alt="Tulio Gomides-email" height="50" width="50" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/email.svg">
+    <img align="center" alt="Tulio Gomides-email" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/email.svg">
   </a>
 &nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=5531997390128&text=Ola%20Tulio%2C%20(me%20chamo)%20estava%20em%20seu%20GitHub%20entrei%20em%20contato%20para%20falarmos%20de%3A" target="_blank">
-    <img align="center" alt="Tulio Gomides-whatsapp" height="50" width="50" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/whatsapp.svg">
+    <img align="center" alt="Tulio Gomides-whatsapp" height="30" width="30" src="https://github.com/GomidesTs/GomidesTs/blob/f93d5e391646f1a3c60adaba783a7c714d998547/.github/whatsapp.svg">
   </a>
 &nbsp;&nbsp;
 
