@@ -1,17 +1,13 @@
 
 # Hey! I'm Túlio Gomides
 
-Web developer since 2020, working with freelance jobs using HTML, CSS and JAVASCRIPT
-technologies as the basis of my applications, responsible for creating and converting
-the UX/UI design into reality, I propose to always face challenges, thus evolving my
-skills more and more. skills.
+Hi there! I am a technology enthusiast who is always seeking to learn and develop. My focus is on web development, and I have been dedicating myself especially to HTML, CSS, and JavaScript technologies with an emphasis on animations and motion design.
 
-Through personal projects, I seek to impact the community where I pass the knowledge
-obtained in the execution of each project, I am starting a project to calculate the
-electrical power of a building being developed in an open source way, aiming at the
-help of beginners in the civil area to reduce their questions and promoting knowledge,
-contribute through the repository 
-[electricalhelp](https://github.com/GomidesTs/electricalhelp)
+I am constantly seeking new ways to challenge myself and grow as a developer, and that is why I invest a lot of time in personal projects. I believe that the best way to learn is by putting it into practice and exploring new ideas, and that is the approach I take in all my projects.
+
+My GitHub is a reflection of this commitment to constant learning and growth. There you will find many personal projects, experiments, and studies of technologies that I am always seeking to master. Feel free to explore my profile and see everything I have been working on!
+
+If you are looking for a developer who is always seeking to improve and values innovation and constant learning, please feel free to contact me through GitHub. I am always open to new opportunities for growth and learning!
 
 I am currently studying at rocketseat to develop technical and behavioral skills,
 seeking to become a standout.
